@@ -7,7 +7,33 @@ class Ontology extends Model {
     }
 
     static get jsonSchema () {
-      // Add model here
+      return {
+        type: 'object',
+        required: ['subtype', 'key'],
+        properties: {
+          key: { type: 'integer' },
+          type: { type: 'string' },
+          label: { type: 'string' },
+          freqSum: { type: 'integer' },
+          subtype: { type: 'string' },
+          gender: {type: 'string' }
+        }
+      }
+    }
+
+    static get relationMappings () {
+      const Person = require('./person')
+  
+      return {
+        ontology: {
+          relation: Model.BelongsToOneRelation,
+          modelClass: Person.model,
+          join: {
+            from: 'ontology.key',
+            to: 'persons.key'
+          }
+        }
+      }
     }
 }
 

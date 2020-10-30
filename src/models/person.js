@@ -1,12 +1,24 @@
 const { Model } = require('objection')
 
+// Add model here
 class Person extends Model {
     static get tableName () {
       return 'persons'
     }
 
     static get jsonSchema () {
-      // Add model here
+      return {
+        type: 'object',
+        required: ['name', 'key'],
+        properties: {
+          name: { type: 'string', maxLength: 255 },
+          freq: { type: 'integer' }, 
+          tag: { type: 'string', maxLength: 5 },
+          repeated: { type: 'integer' },
+          key: { type: 'integer' },
+          freqSum: { type: 'integer' }
+        }
+      }
     }
 
     static get relationMappings () {
