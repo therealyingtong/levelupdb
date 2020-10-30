@@ -1,0 +1,533 @@
+[
+ {
+   "name": "Elessar",
+   "freq": 37,
+   "tag": "arag",
+   "repeated": 1,
+   "normalisedName": "Elessar",
+   "key": 0,
+   "freqSum": 1069
+ },
+ {
+   "name": "Strider",
+   "freq": 233,
+   "tag": "arag",
+   "repeated": 1,
+   "normalisedName": "Strider",
+   "key": 0,
+   "freqSum": 1069
+ },
+ {
+   "name": "Aragorn",
+   "freq": 799,
+   "tag": "arag",
+   "repeated": 1,
+   "normalisedName": "Aragorn",
+   "key": 1,
+   "freqSum": 1069
+ },
+ {
+   "name": "Arathorn",
+   "freq": 36,
+   "tag": "arat",
+   "repeated": 0,
+   "normalisedName": "Arathorn",
+   "key": 1,
+   "freqSum": 36
+ },
+ {
+   "name": "Arwen",
+   "freq": 51,
+   "tag": "arwe",
+   "repeated": 0,
+   "normalisedName": "Arwen",
+   "key": 1,
+   "freqSum": 51
+ },
+ {
+   "name": "Balin",
+   "freq": 30,
+   "tag": "bali",
+   "repeated": 0,
+   "normalisedName": "Balin",
+   "key": 1,
+   "freqSum": 30
+ },
+ {
+   "name": "Beregond",
+   "freq": 77,
+   "tag": "bere",
+   "repeated": 0,
+   "normalisedName": "Beregond",
+   "key": 1,
+   "freqSum": 77
+ },
+ {
+   "name": "Bilbo",
+   "freq": 385,
+   "tag": "bilb",
+   "repeated": 0,
+   "normalisedName": "Bilbo",
+   "key": 1,
+   "freqSum": 385
+ },
+ {
+   "name": "Bill",
+   "freq": 45,
+   "tag": "bill",
+   "repeated": 0,
+   "normalisedName": "Bill",
+   "key": 1,
+   "freqSum": 45
+ },
+ {
+   "name": "Boromir",
+   "freq": 293,
+   "tag": "boro",
+   "repeated": 0,
+   "normalisedName": "Boromir",
+   "key": 1,
+   "freqSum": 293
+ },
+ {
+   "name": "Celeborn",
+   "freq": 51,
+   "tag": "cele",
+   "repeated": 0,
+   "normalisedName": "Celeborn",
+   "key": 1,
+   "freqSum": 51
+ },
+ {
+   "name": "Denethor",
+   "freq": 168,
+   "tag": "dene",
+   "repeated": 0,
+   "normalisedName": "Denethor",
+   "key": 1,
+   "freqSum": 168
+ },
+ {
+   "name": "Durin",
+   "freq": 54,
+   "tag": "duri",
+   "repeated": 0,
+   "normalisedName": "Durin",
+   "key": 1,
+   "freqSum": 54
+ },
+ {
+   "name": "Elendil",
+   "freq": 89,
+   "tag": "elen",
+   "repeated": 0,
+   "normalisedName": "Elendil",
+   "key": 1,
+   "freqSum": 89
+ },
+ {
+   "name": "Elrond",
+   "freq": 240,
+   "tag": "elro",
+   "repeated": 0,
+   "normalisedName": "Elrond",
+   "key": 1,
+   "freqSum": 240
+ },
+ {
+   "name": "Éomer",
+   "freq": 238,
+   "tag": "eome",
+   "repeated": 0,
+   "normalisedName": "Éomer",
+   "key": 1,
+   "freqSum": 238
+ },
+ {
+   "name": "Eorl",
+   "freq": 56,
+   "tag": "eorl",
+   "repeated": 0,
+   "normalisedName": "Eorl",
+   "key": 1,
+   "freqSum": 56
+ },
+ {
+   "name": "Éowyn",
+   "freq": 115,
+   "tag": "eowy",
+   "repeated": 0,
+   "normalisedName": "Éowyn",
+   "key": 1,
+   "freqSum": 115
+ },
+ {
+   "name": "Faramir",
+   "freq": 313,
+   "tag": "fara",
+   "repeated": 0,
+   "normalisedName": "Faramir",
+   "key": 1,
+   "freqSum": 313
+ },
+ {
+   "name": "Frodo",
+   "freq": 2040,
+   "tag": "frod",
+   "repeated": 0,
+   "normalisedName": "Frodo",
+   "key": 1,
+   "freqSum": 2040
+ },
+ {
+   "name": "Galadriel",
+   "freq": 95,
+   "tag": "gala",
+   "repeated": 0,
+   "normalisedName": "Galadriel",
+   "key": 1,
+   "freqSum": 95
+ },
+ {
+   "name": "Mithrandir",
+   "freq": 53,
+   "tag": "ganda",
+   "repeated": 1,
+   "normalisedName": "Mithrandir",
+   "key": 0,
+   "freqSum": 1235
+ },
+ {
+   "name": "Gandalf",
+   "freq": 1182,
+   "tag": "ganda",
+   "repeated": 1,
+   "normalisedName": "Gandalf",
+   "key": 1,
+   "freqSum": 1235
+ },
+ {
+   "name": "Goldberry",
+   "freq": 32,
+   "tag": "gber",
+   "repeated": 0,
+   "normalisedName": "Goldberry",
+   "key": 1,
+   "freqSum": 32
+ },
+ {
+   "name": "Gildor",
+   "freq": 32,
+   "tag": "gild",
+   "repeated": 0,
+   "normalisedName": "Gildor",
+   "key": 1,
+   "freqSum": 32
+ },
+ {
+   "name": "Gimli",
+   "freq": 403,
+   "tag": "gimli",
+   "repeated": 0,
+   "normalisedName": "Gimli",
+   "key": 1,
+   "freqSum": 403
+ },
+ {
+   "name": "Glóin",
+   "freq": 52,
+   "tag": "gloi",
+   "repeated": 0,
+   "normalisedName": "Glóin",
+   "key": 1,
+   "freqSum": 52
+ },
+ {
+   "name": "Glorfindel",
+   "freq": 43,
+   "tag": "glorf",
+   "repeated": 0,
+   "normalisedName": "Glorfindel",
+   "key": 1,
+   "freqSum": 43
+ },
+ {
+   "name": "Sméagol",
+   "freq": 158,
+   "tag": "goll",
+   "repeated": 1,
+   "normalisedName": "Sméagol",
+   "key": 0,
+   "freqSum": 581
+ },
+ {
+   "name": "Gollum",
+   "freq": 423,
+   "tag": "goll",
+   "repeated": 1,
+   "normalisedName": "Gollum",
+   "key": 1,
+   "freqSum": 581
+ },
+ {
+   "name": "Gorbag",
+   "freq": 30,
+   "tag": "gorb",
+   "repeated": 0,
+   "normalisedName": "Gorbag",
+   "key": 1,
+   "freqSum": 30
+ },
+ {
+   "name": "Wormtongue",
+   "freq": 65,
+   "tag": "grim",
+   "repeated": 0,
+   "normalisedName": "Wormtongue",
+   "key": 1,
+   "freqSum": 65
+ },
+ {
+   "name": "Haldir",
+   "freq": 44,
+   "tag": "hald",
+   "repeated": 0,
+   "normalisedName": "Haldir",
+   "key": 1,
+   "freqSum": 44
+ },
+ {
+   "name": "Isildur",
+   "freq": 103,
+   "tag": "isil",
+   "repeated": 0,
+   "normalisedName": "Isildur",
+   "key": 1,
+   "freqSum": 103
+ },
+ {
+   "name": "Legolas",
+   "freq": 346,
+   "tag": "lego",
+   "repeated": 0,
+   "normalisedName": "Legolas",
+   "key": 1,
+   "freqSum": 346
+ },
+ {
+   "name": "Master Meriadoc",
+   "freq": 5,
+   "tag": "merr",
+   "repeated": 1,
+   "normalisedName": "Master Meriadoc",
+   "key": 0,
+   "freqSum": 595
+ },
+ {
+   "name": "Meriadoc",
+   "freq": 44,
+   "tag": "merr",
+   "repeated": 1,
+   "normalisedName": "Meriadoc",
+   "key": 0,
+   "freqSum": 595
+ },
+ {
+   "name": "Merry",
+   "freq": 546,
+   "tag": "merr",
+   "repeated": 1,
+   "normalisedName": "Merry",
+   "key": 1,
+   "freqSum": 595
+ },
+ {
+   "name": "Peregrin Took",
+   "freq": 9,
+   "tag": "pipp",
+   "repeated": 1,
+   "normalisedName": "Peregrin Took",
+   "key": 0,
+   "freqSum": 771
+ },
+ {
+   "name": "Master Peregrin",
+   "freq": 11,
+   "tag": "pipp",
+   "repeated": 1,
+   "normalisedName": "Master Peregrin",
+   "key": 0,
+   "freqSum": 771
+ },
+ {
+   "name": "Peregrin",
+   "freq": 64,
+   "tag": "pipp",
+   "repeated": 1,
+   "normalisedName": "Peregrin",
+   "key": 0,
+   "freqSum": 771
+ },
+ {
+   "name": "Pippin",
+   "freq": 687,
+   "tag": "pipp",
+   "repeated": 1,
+   "normalisedName": "Pippin",
+   "key": 1,
+   "freqSum": 771
+ },
+ {
+   "name": "Ring",
+   "freq": 427,
+   "tag": "ring",
+   "repeated": 0,
+   "normalisedName": "Ring",
+   "key": 1,
+   "freqSum": 427
+ },
+ {
+   "name": "Gamgee",
+   "freq": 48,
+   "tag": "sams",
+   "repeated": 1,
+   "normalisedName": "Gamgee",
+   "key": 0,
+   "freqSum": 1400
+ },
+ {
+   "name": "Samwise",
+   "freq": 59,
+   "tag": "sams",
+   "repeated": 1,
+   "normalisedName": "Samwise",
+   "key": 0,
+   "freqSum": 1400
+ },
+ {
+   "name": "Sam",
+   "freq": 1293,
+   "tag": "sams",
+   "repeated": 1,
+   "normalisedName": "Sam",
+   "key": 1,
+   "freqSum": 1400
+ },
+ {
+   "name": "Saruman",
+   "freq": 312,
+   "tag": "saru",
+   "repeated": 0,
+   "normalisedName": "Saruman",
+   "key": 1,
+   "freqSum": 312
+ },
+ {
+   "name": "Dark Lord",
+   "freq": 50,
+   "tag": "saur",
+   "repeated": 1,
+   "normalisedName": "Dark Lord",
+   "key": 0,
+   "freqSum": 339
+ },
+ {
+   "name": "Eye",
+   "freq": 43,
+   "tag": "saur",
+   "repeated": 1,
+   "normalisedName": "Eye",
+   "key": 0,
+   "freqSum": 339
+ },
+ {
+   "name": "Sauron",
+   "freq": 246,
+   "tag": "saur",
+   "repeated": 1,
+   "normalisedName": "Sauron",
+   "key": 1,
+   "freqSum": 339
+ },
+ {
+   "name": "Shadowfax",
+   "freq": 78,
+   "tag": "sfax",
+   "repeated": 0,
+   "normalisedName": "Shadowfax",
+   "key": 1,
+   "freqSum": 78
+ },
+ {
+   "name": "Shelob",
+   "freq": 40,
+   "tag": "shel",
+   "repeated": 0,
+   "normalisedName": "Shelob",
+   "key": 1,
+   "freqSum": 40
+ },
+ {
+   "name": "Théoden",
+   "freq": 246,
+   "tag": "theod",
+   "repeated": 0,
+   "normalisedName": "Théoden",
+   "key": 1,
+   "freqSum": 246
+ },
+ {
+   "name": "Thorin",
+   "freq": 40,
+   "tag": "thor",
+   "repeated": 0,
+   "normalisedName": "Thorin",
+   "key": 1,
+   "freqSum": 40
+ },
+ {
+   "name": "Thráin",
+   "freq": 33,
+   "tag": "thra",
+   "repeated": 0,
+   "normalisedName": "Thráin",
+   "key": 1,
+   "freqSum": 33
+ },
+ {
+   "name": "Bombadil",
+   "freq": 39,
+   "tag": "tomb",
+   "repeated": 1,
+   "normalisedName": "Bombadil",
+   "key": 1,
+   "freqSum": 177
+ },
+ {
+   "name": "Tom",
+   "freq": 138,
+   "tag": "tomb",
+   "repeated": 1,
+   "normalisedName": "Tom",
+   "key": 0,
+   "freqSum": 177
+ },
+ {
+   "name": "Fangorn",
+   "freq": 67,
+   "tag": "treeb",
+   "repeated": 1,
+   "normalisedName": "Fangorn",
+   "key": 0,
+   "freqSum": 221
+ },
+ {
+   "name": "Treebeard",
+   "freq": 154,
+   "tag": "treeb",
+   "repeated": 1,
+   "normalisedName": "Treebeard",
+   "key": 1,
+   "freqSum": 221
+ }
+]
